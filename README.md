@@ -1,5 +1,5 @@
 [profile-README.md](https://github.com/user-attachments/files/28930180/profile-README.md)
-## Hi there 👋
+
 
 <!--
 **ChistoOleg/ChistoOleg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
