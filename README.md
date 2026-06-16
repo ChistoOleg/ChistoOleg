@@ -1,8 +1,5 @@
 [profile-README.md](https://github.com/user-attachments/files/28930180/profile-README.md)
 
-
-<!--
-**ChistoOleg/ChistoOleg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### Quantitative developer — econometrics, machine learning, and markets
 
 I build research-grade quantitative projects and self-hosted financial tools in Python.
