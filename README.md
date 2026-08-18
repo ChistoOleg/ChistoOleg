@@ -1,4 +1,4 @@
-[profile-README.md](https://github.com/user-attachments/files/28930180/profile-README.md)
+
 
 ### Quantitative developer — econometrics, machine learning, and markets
 
